@@ -1,2 +1,0 @@
-# MyProjects
-Random Pass Generator
